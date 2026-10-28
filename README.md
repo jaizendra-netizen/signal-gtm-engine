@@ -1,5 +1,7 @@
 # Signal-Led TAM Engine
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jaizendra-netizen/signal-gtm-engine)
+
 > **Thesis:** Most teams apply buying signals to a **fixed** TAM — build a list once,
 > then forever score intent against that frozen set. The moment a perfect-fit account
 > appears that you never added, the engine is blind to it: it can't score, because it
