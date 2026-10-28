@@ -253,3 +253,7 @@ signal-gtm-engine/
 > **This is a public template, not a data dump.** No secrets, no client data, no real
 > company names live in this repo. Scripts read keys from the environment only; run data
 > stays under `data/` (gitignored). Fill in your own ICP, your own keys, your own TAM.
+
+---
+
+Built by [OneGTMLab](https://www.onegtmlab.dev), a GTM engineering agency. More free GTM systems and tool reviews: [onegtmlab.dev/tool-directory](https://www.onegtmlab.dev/tool-directory).
