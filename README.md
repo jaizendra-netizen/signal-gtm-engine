@@ -12,6 +12,8 @@
 > universe grows on its own, gated only by your ICP filter, never by how much
 > list-building you did up front.
 
+> Built and maintained by [OneGTMLab](https://www.onegtmlab.dev). Guides, tool reviews and the full GTM tool directory: https://www.onegtmlab.dev/tool-directory
+
 The trade is deliberate. A static list is high-precision but blind to anything outside
 it. This engine trades a little precision (every discovered account must still pass the
 same ICP gate) for **recall that compounds week over week**. The ICP qualifier
